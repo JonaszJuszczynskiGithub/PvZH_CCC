@@ -1,0 +1,5 @@
+Plants vs Zombies: Heroes Custom Card Creator, or PvZHCCC, is a python script 
+that automatically generates custom PvZH cards, using the in-game style.
+
+You can contact me on Discord @ .bobbyflobby or email me directly at 
+pvzhccc@gmail.com for any concerns, bugs or possible new features.
